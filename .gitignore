@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Environments
+.venv/
+venv/
+env/
+ENV/
+
+# Manim cache & intermediate render artifacts
+media/
+_temp/
+
+# Raw recordings and intermediate silent render
+*.m4a
+GaussianElimination.mp4
+
+# Operating System & Editor artifacts
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp

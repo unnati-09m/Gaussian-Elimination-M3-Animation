@@ -1,0 +1,27 @@
+GAUSSIAN ELIMINATION - SCENE TIMESTAMPS (taken from the render timeline)
+Total duration: 6:48.90  (408.9 s)
+
+S01  0:00.00 - 0:31.97  (32.0 s)  Title and introduction
+S02  0:31.97 - 0:46.97  (15.0 s)  The problem: three equations
+S03  0:46.97 - 1:08.97  (22.0 s)  Concept: what is Gaussian elimination
+S04  1:08.97 - 1:28.97  (20.0 s)  Two variables: three cases
+S05  1:28.97 - 1:38.00  (9.0 s)  3D case 1: one point
+S06  1:38.00 - 1:48.03  (10.0 s)  3D case 2: common line
+S07  1:48.03 - 1:57.07  (9.0 s)  3D case 3: coincident planes
+S08  1:57.07 - 2:06.10  (9.0 s)  3D case 4: parallel planes
+S09  2:06.10 - 2:18.13  (12.0 s)  3D case 5: pairwise only
+S10  2:18.13 - 2:36.13  (18.0 s)  Augmented matrix
+S11  2:36.13 - 3:08.13  (32.0 s)  Three row operations
+S12  3:08.13 - 3:21.13  (13.0 s)  Pivot
+S13  3:21.13 - 3:37.13  (16.0 s)  Row operation 1: R2 - 2R1
+S14  3:37.13 - 3:50.13  (13.0 s)  Row operation 2: R3 - R1
+S15  3:50.13 - 4:04.13  (14.0 s)  Row operation 3: R3 + R2
+S16  4:04.13 - 4:23.13  (19.0 s)  Row-echelon form
+S17  4:23.13 - 4:45.10  (22.0 s)  Back substitution
+S18  4:45.10 - 5:01.07  (16.0 s)  Verification
+S19  5:01.07 - 5:14.03  (13.0 s)  Case 1: unique solution
+S20  5:14.03 - 5:36.00  (22.0 s)  Case 2: infinitely many solutions
+S21  5:36.00 - 5:56.97  (21.0 s)  Case 3: no solution; zero row vs contradiction
+S22  5:56.97 - 6:12.93  (16.0 s)  Pivots, rank and consistency
+S23  6:12.93 - 6:28.93  (16.0 s)  Geometry of the worked example
+S24  6:28.93 - 6:48.90  (20.0 s)  Summary and credits
